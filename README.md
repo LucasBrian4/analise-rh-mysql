@@ -2,7 +2,7 @@
 
 Projeto de portfólio em SQL focado em **modelagem de banco de dados relacional do zero** e em **queries analíticas** para responder perguntas de negócio típicas de um setor de RH: headcount, salários, tempo até promoção, turnover e estrutura de liderança.
 
-Diferente de projetos baseados em datasets prontos, aqui o banco foi **desenhado primeiro** (tabelas, chaves primárias e estrangeiras, normalização) e só depois populado com dados fictícios gerados via Python + Faker, respeitando as regras de negócio definidas no schema (ex: um funcionário só pode ter cargos do seu próprio departamento).
+Ao invés de projetos baseados em datasets prontos, aqui o banco foi **desenhado primeiro** (tabelas, chaves primárias e estrangeiras, normalização) e só depois populado com dados fictícios gerados via Python + Faker, respeitando as regras de negócio definidas no schema (ex: um funcionário só pode ter cargos do seu próprio departamento).
 
 ## Diagrama Entidade-Relacionamento
 
